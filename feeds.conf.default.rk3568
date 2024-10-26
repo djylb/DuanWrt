@@ -1,0 +1,20 @@
+src-git istoreui https://github.com/linkease/istore-ui
+src-git istore https://github.com/linkease/istore
+src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+
+src-git packages https://github.com/photonicat/rockchip_rk3568_openwrt_packages.git;master
+src-git luci https://github.com/photonicat/rockchip_rk3568_openwrt_luci.git;master
+src-git routing https://github.com/photonicat/rockchip_rk3568_openwrt_routing.git;master
+src-git telephony https://github.com/photonicat/rockchip_rk3568_openwrt_telephony.git;master
+
+#src-git openwrtpackages https://git.openwrt.org/feed/packages.git
+#src-git openwrtrouting https://git.openwrt.org/feed/routing.git
+#src-git openwrttelephony https://git.openwrt.org/feed/telephony.git
+#src-git openwrtvideo https://git.openwrt.org/feed/video.git
+src-git coolsnowwolfpackages https://github.com/coolsnowwolf/packages
+src-git coolsnowwolfluci https://github.com/coolsnowwolf/luci
+src-git video https://github.com/openwrt/video.git
+#src-git targets https://github.com/openwrt/targets.git
+#src-git oldpackages http://git.openwrt.org/packages.git
